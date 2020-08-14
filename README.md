@@ -10,7 +10,7 @@ __Under Construction__
 Download the source code from the repository. (Future submission to the Wolfram Function Repository)
 
 ## Usage
-Simply supply a molecular input in a supported format and you will get an output of complexity C<sub>m</sub>.
+Simply supply a molecular input in a supported format and you will get an output of complexity C<sub>m</sub>. Supported input formates include molecule object, SMILES string, InCHI. 
 
 ## Support
 Any support related inquiries may be directed to wborrelli@fordham.edu. For general IBM RXN for Chemistry API support see [the official documentation](https://rxn.res.ibm.com/wp-content/uploads/2020/04/ibm_rxn_api_v2.pdf).
