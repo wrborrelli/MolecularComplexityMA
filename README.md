@@ -7,7 +7,7 @@ __Under Construction__
 
 ## Installation
 
-Download the source code from the repository. (Future submission to the Wolfram Function Repository)
+Download the function source code from the repository, or use the Mathematica Function Repository notebook to deploy the function on your machine and view documentation and examples. (Future submission to the Wolfram Function Repository)
 
 ## Usage
 Simply supply a molecular input in a supported format and you will get an output of complexity C<sub>m</sub>. 
